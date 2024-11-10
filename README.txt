@@ -2,6 +2,8 @@ Use of Gcode GeneratorV2.1:
 
 --You will need python installed on your system
 
+--You will need blender and Ultimaker Cura installed locally relative to GeneratorV2.1.py
+
 --Dependencies can be installed by running install.py
 
 --The application can be run by running run.py
