@@ -1,6 +1,6 @@
-Use of Gcode GeneratorV2.1:
+GcodeGenerator was built for my Honors Thesis, as an experiemnt into how natural language processing could be used to simplify 3D printing.
 
---You will need python installed on your system
+Use of Gcode GeneratorV2.1:
 
 --You will need blender and Ultimaker Cura installed locally relative to GeneratorV2.1.py
 
